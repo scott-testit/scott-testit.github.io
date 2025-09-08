@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Podcast Collection</title>
+    <link>https://scott-testit.github.io/podcasts.xml</link>
+    <language>en-us</language>
+    <description>A curated collection of interesting podcast episodes</description>
+    <itunes:author>Various Authors</itunes:author>
+    <itunes:category text="Society &amp; Culture"/>
+    
+    <item>
+      <title>Episode 342: Animal Minds &amp; Moral Truths - Peter Singer</title>
+      <itunes:title>Animal Minds &amp; Moral Truths - Peter Singer</itunes:title>
+      <itunes:author>Sam Harris</itunes:author>
+      <itunes:subtitle>Discussion on animal consciousness and ethics</itunes:subtitle>
+      <enclosure url="https://assets.samharris.org/episodes/audios/ec0e649f-ebe3-446d-957a-c5649325be1c/Making_Sense_342_Peter_Singer_subscriber.mp3" length="10000000" type="audio/mpeg"/>
+      <guid>https://assets.samharris.org/episodes/audios/ec0e649f-ebe3-446d-957a-c5649325be1c/Making_Sense_342_Peter_Singer_subscriber.mp3</guid>
+      <pubDate>Mon, 01 Jan 2023 12:00:00 GMT</pubDate>
+      <itunes:duration>01:15:30</itunes:duration>
+    </item>
+    
+    <item>
+      <title>Episode 384: Stress Testing Our Democracy - Barton Gellman</title>
+      <itunes:title>Stress Testing Our Democracy - Barton Gellman</itunes:title>
+      <itunes:author>Sam Harris</itunes:author>
+      <itunes:subtitle>Examining challenges to democratic institutions</itunes:subtitle>
+      <enclosure url="https://assets.samharris.org/episodes/audios/1fb55a04-2457-4355-972e-85440c9ef362/Making_Sense_384_Barton_Gellman_subscriber.mp3" length="9500000" type="audio/mpeg"/>
+      <guid>https://assets.samharris.org/episodes/audios/1fb55a04-2457-4355-972e-85440c9ef362/Making_Sense_384_Barton_Gellman_subscriber.mp3</guid>
+      <pubDate>Mon, 15 Jan 2023 12:00:00 GMT</pubDate>
+      <itunes:duration>01:12:45</itunes:duration>
+    </item>
+    
+    <item>
+      <title>Episode 399: The Politics of Catastrophe - Rick Caruso</title>
+      <itunes:title>The Politics of Catastrophe - Rick Caruso</itunes:title>
+      <itunes:author>Sam Harris</itunes:author>
+      <itunes:subtitle>How societies respond to catastrophic events</itunes:subtitle>
+      <enclosure url="https://assets.samharris.org/episodes/videos/8dc253dd-3aac-45c6-ac00-538f0d098e93/MakingSense-RickCaruso_Video_Final_low_bitrate_for_website.mp4" length="25000000" type="video/mp4"/>
+      <guid>https://assets.samharris.org/episodes/videos/8dc253dd-3aac-45c6-ac00-538f0d098e93/MakingSense-RickCaruso_Video_Final_low_bitrate_for_website.mp4</guid>
+      <pubDate>Mon, 05 Feb 2023 12:00:00 GMT</pubDate>
+      <itunes:duration>01:05:20</itunes:duration>
+    </item>
+    
+    <item>
+      <title>Episode 414: Strange Truths - David Deutsch</title>
+      <itunes:title>Strange Truths - David Deutsch</itunes:title>
+      <itunes:author>Sam Harris</itunes:author>
+      <itunes:subtitle>Exploring the foundations of knowledge</itunes:subtitle>
+      <enclosure url="https://assets.samharris.org/episodes/videos/58ddbdea-ae0a-43bd-83ae-eb38f56e0101/MakingSense-DavidDeutsch5-7-25SUBSCRIBERLowBitrate.mp4" length="28000000" type="video/mp4"/>
+      <guid>https://assets.samharris.org/episodes/videos/58ddbdea-ae0a-43bd-83ae-eb38f56e0101/MakingSense-DavidDeutsch5-7-25SUBSCRIBERLowBitrate.mp4</guid>
+      <pubDate>Mon, 20 Feb 2023 12:00:00 GMT</pubDate>
+      <itunes:duration>01:18:15</itunes:duration>
+    </item>
+    
+    <item>
+      <title>Episode 418: A future for Democrats - Ritchie Torres</title>
+      <itunes:title>A future for Democrats - Ritchie Torres</itunes:title>
+      <itunes:author>Sam Harris</itunes:author>
+      <itunes:subtitle>The direction of the Democratic party</itunes:subtitle>
+      <enclosure url="https://traffic.libsyn.com/wakingup/Making_Sense_418_Ritchie_Torres_subscriber.mp3" length="8900000" type="audio/mpeg"/>
+      <guid>https://traffic.libsyn.com/wakingup/Making_Sense_418_Ritchie_Torres_subscriber.mp3</guid>
+      <pubDate>Mon, 05 Mar 2023 12:00:00 GMT</pubDate>
+      <itunes:duration>01:10:05</itunes:duration>
+    </item>
+    
+    <item>
+      <title>Episode 433: How Did We Get Here - Dan Carlin</title>
+      <itunes:title>How Did We Get Here - Dan Carlin</itunes:title>
+      <itunes:author>Sam Harris</itunes:author>
+      <itunes:subtitle>Historical perspective on current events</itunes:subtitle>
+      <enclosure url="https://assets.samharris.org/episodes/videos/2e560d04-c9ee-4e3a-8835-b5d0fab84ebd/9-4-25-Dan-Carlin-Video-Edit-2-SUBSCRIBER-Low-Bitrate.mp4" length="32000000" type="video/mp4"/>
+      <guid>https://assets.samharris.org/episodes/videos/2e560d04-c9ee-4e3a-8835-b5d0fab84ebd/9-4-25-Dan-Carlin-Video-Edit-2-SUBSCRIBER-Low-Bitrate.mp4</guid>
+      <pubDate>Mon, 20 Mar 2023 12:00:00 GMT</pubDate>
+      <itunes:duration>01:25:40</itunes:duration>
+    </item>
+  </channel>
+</rss>
