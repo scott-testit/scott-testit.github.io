@@ -7,6 +7,46 @@
     <description>A curated collection of interesting podcast episodes</description>
     <itunes:author>Various Authors</itunes:author>
     <itunes:category text="Society &amp; Culture"/>
+
+    <item>
+        <title>Episode 438: MFS (Oct 10, 2025)</title>
+        <itunes:title>MFS</itunes:title>
+        <itunes:author>Sam Harris</itunes:author>
+        <itunes:subtitle>MFS</itunes:subtitle>
+        <enclosure
+            url="https://assets.samharris.org/episodes/audios/47b605e1-b9ab-441f-8322-1e5795bb495f/Making_Sense_438_MFS_10-10-25-subscriber-V3.mp3"
+            length="0"
+            type="audio/mpeg"/>
+        <guid>https://assets.samharris.org/episodes/audios/47b605e1-b9ab-441f-8322-1e5795bb495f/Making_Sense_438_MFS_10-10-25-subscriber-V3.mp3</guid>
+        <pubDate>Fri, 10 Oct 2025 12:00:00 GMT</pubDate>
+        <itunes:duration>01:02:00</itunes:duration>
+    </item>
+    <item>
+        <title>Episode 445: MFS (Nov 25, 2025)</title>
+        <itunes:title>MFS</itunes:title>
+        <itunes:author>Sam Harris</itunes:author>
+        <itunes:subtitle>MFS</itunes:subtitle>
+        <enclosure
+            url="https://assets.samharris.org/episodes/audios/f33c0b00-afe5-4c75-be6b-1fd6505ee8f2/Making_Sense_445_MFS_11-25-25-subscriber.mp3"
+            length="0"
+            type="audio/mpeg"/>
+        <guid>https://assets.samharris.org/episodes/audios/f33c0b00-afe5-4c75-be6b-1fd6505ee8f2/Making_Sense_445_MFS_11-25-25-subscriber.mp3</guid>
+        <pubDate>Tue, 25 Nov 2025 12:00:00 GMT</pubDate>
+        <itunes:duration>00:58:28</itunes:duration>
+    </item>
+    <item>
+        <title>Episode 442: MFS (Nov 31, 2025)</title>
+        <itunes:title>MFS</itunes:title>
+        <itunes:author>Sam Harris</itunes:author>
+        <itunes:subtitle>MFS</itunes:subtitle>
+        <enclosure
+            url="https://assets.samharris.org/episodes/audios/764ab09f-6eb8-4b19-b12a-26d5609c9c3d/Making_Sense_442_MFS_11-31-25-subscriber.mp3"
+            length="0"
+            type="audio/mpeg"/>
+        <guid>https://assets.samharris.org/episodes/audios/764ab09f-6eb8-4b19-b12a-26d5609c9c3d/Making_Sense_442_MFS_11-31-25-subscriber.mp3</guid>
+        <pubDate>Mon, 31 Nov 2025 12:00:00 GMT</pubDate>
+        <itunes:duration>00:43:00</itunes:duration>
+    </item>
     
     <item>
       <title>Episode 342: Animal Minds &amp; Moral Truths - Peter Singer</title>
