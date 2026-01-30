@@ -9,6 +9,49 @@
     <itunes:category text="Society &amp; Culture"/>
 
     <item>
+        <title>Episode 391: The Reckoning</title>
+        <itunes:title>The Reckoning</itunes:title>
+        <itunes:author>Sam Harris</itunes:author>
+        <itunes:subtitle>The Reckoning</itunes:subtitle>
+        <enclosure
+            url="https://assets.samharris.org/episodes/audios/593e9f5e-9127-4f6f-8156-36bce67c273b/The-Reckoning-Final.mp3"
+            length="0"
+            type="audio/mpeg"/>
+        <guid>https://assets.samharris.org/episodes/audios/593e9f5e-9127-4f6f-8156-36bce67c273b/The-Reckoning-Final.mp3</guid>
+        <pubDate>Mon, 11 Nov 2024 12:00:00 GMT</pubDate>
+        <itunes:duration>00:39:47</itunes:duration>
+    </item>
+
+    <item>
+        <title>Episode 400: Helen Lewis</title>
+        <itunes:title>Helen Lewis</itunes:title>
+        <itunes:author>Sam Harris</itunes:author>
+        <itunes:subtitle>Helen Lewis</itunes:subtitle>
+        <enclosure
+            url="https://assets.samharris.org/episodes/audios/1be530ab-2821-4f10-baae-5a37158221e3/Making_Sense_400_Helen_Lewis_subscriber.mp3"
+            length="0"
+            type="audio/mpeg"/>
+        <guid>https://assets.samharris.org/episodes/audios/1be530ab-2821-4f10-baae-5a37158221e3/Making_Sense_400_Helen_Lewis_subscriber.mp3</guid>
+        <pubDate>Thu, 06 Feb 2025 12:00:00 GMT</pubDate>
+        <itunes:duration>01:37:41</itunes:duration>
+    </item>
+
+    <item>
+        <title>Episode 258: The Fall of Afghanistan</title>
+        <itunes:title>The Fall of Afghanistan</itunes:title>
+        <itunes:author>Sam Harris</itunes:author>
+        <itunes:subtitle>The Fall of Afghanistan</itunes:subtitle>
+        <enclosure
+            url="https://assets.samharris.org/episodes/audios/878aed25-2a21-4719-9771-8a74bfe6aeda/77fe7ef0-b8ad-4c0c-9406-6dcca475e874.mp3"
+            length="0"
+            type="audio/mpeg"/>
+        <guid>https://assets.samharris.org/episodes/audios/878aed25-2a21-4719-9771-8a74bfe6aeda/77fe7ef0-b8ad-4c0c-9406-6dcca475e874.mp3</guid>
+        <pubDate>Sun, 22 Aug 2021 12:00:00 GMT</pubDate>
+        <itunes:duration>01:27:11</itunes:duration>
+    </item>
+    
+    
+    <item>
         <title>Episode 438: MFS (Oct 10, 2025)</title>
         <itunes:title>MFS</itunes:title>
         <itunes:author>Sam Harris</itunes:author>
