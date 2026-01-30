@@ -47,6 +47,70 @@
         <pubDate>Mon, 31 Nov 2025 12:00:00 GMT</pubDate>
         <itunes:duration>00:43:00</itunes:duration>
     </item>
+    <item>
+        <title>Episode 381: Steven Bonnell</title>
+        <itunes:title>Steven Bonnell</itunes:title>
+        <itunes:author>Sam Harris</itunes:author>
+        <itunes:subtitle>Steven Bonnell</itunes:subtitle>
+        <enclosure
+            url="https://assets.samharris.org/episodes/audios/0613a070-6c5b-40d8-9559-1c8842401c5d/Making_Sense_381_Steven_Bonnell_subscriber.mp3"
+            length="0"
+            type="audio/mpeg"/>
+        <guid>https://assets.samharris.org/episodes/audios/0613a070-6c5b-40d8-9559-1c8842401c5d/Making_Sense_381_Steven_Bonnell_subscriber.mp3</guid>
+        <itunes:duration>01:46:03</itunes:duration>
+    </item>
+
+    <item>
+        <title>Episode 386: Yuval Noah Harrari</title>
+        <itunes:title>Yuval Noah Harrari</itunes:title>
+        <itunes:author>Sam Harris</itunes:author>
+        <itunes:subtitle>Yuval Noah Harrari</itunes:subtitle>
+        <enclosure
+            url="https://assets.samharris.org/episodes/audios/131b53a1-9f1f-4ff3-95da-ad565669adda/Making_Sense_386_Yuval_Noah_Harrari_subscriber.mp3"
+            length="0"
+            type="audio/mpeg"/>
+        <guid>https://assets.samharris.org/episodes/audios/131b53a1-9f1f-4ff3-95da-ad565669adda/Making_Sense_386_Yuval_Noah_Harrari_subscriber.mp3</guid>
+        <itunes:duration>02:04:46</itunes:duration>
+    </item>
+
+    <item>
+        <title>Episode 443: Douglas Wilson</title>
+        <itunes:title>Douglas Wilson</itunes:title>
+        <itunes:author>Sam Harris</itunes:author>
+        <itunes:subtitle>Douglas Wilson</itunes:subtitle>
+        <enclosure
+            url="https://assets.samharris.org/episodes/audios/3b0e3cff-59e0-412c-9469-e182f0f0db35/Making_Sense_443_Douglas_Wilson-Subscriber.mp3"
+            length="0"
+            type="audio/mpeg"/>
+        <guid>https://assets.samharris.org/episodes/audios/3b0e3cff-59e0-412c-9469-e182f0f0db35/Making_Sense_443_Douglas_Wilson-Subscriber.mp3</guid>
+        <itunes:duration>01:59:30</itunes:duration>
+    </item>
+
+    <item>
+        <title>Episode 449: Ross Douthout</title>
+        <itunes:title>Ross Douthout</itunes:title>
+        <itunes:author>Sam Harris</itunes:author>
+        <itunes:subtitle>Ross Douthout</itunes:subtitle>
+        <enclosure
+            url="https://assets.samharris.org/episodes/audios/3394d9c4-e636-40c3-8977-21e7b06e4dee/Making_Sense_449_Ross_Douthout-subscriber.mp3"
+            length="0"
+            type="audio/mpeg"/>
+        <guid>https://assets.samharris.org/episodes/audios/3394d9c4-e636-40c3-8977-21e7b06e4dee/Making_Sense_449_Ross_Douthout-subscriber.mp3</guid>
+        <itunes:duration>01:46:53</itunes:duration>
+    </item>
+
+    <item>
+        <title>Episode 434: Eliezer Yudkowsky &amp; Nate Soares</title>
+        <itunes:title>Eliezer Yudkowsky &amp; Nate Soares</itunes:title>
+        <itunes:author>Sam Harris</itunes:author>
+        <itunes:subtitle>Eliezer Yudkowsky &amp; Nate Soares</itunes:subtitle>
+        <enclosure
+            url="https://assets.samharris.org/episodes/audios/88abceb2-4069-4aa1-a22f-fc95fa3cb3fa/Making_Sense_434_Eliezer_Yudkowsky__Nate_Soares-Subscriber.mp3"
+            length="0"
+            type="audio/mpeg"/>
+        <guid>https://assets.samharris.org/episodes/audios/88abceb2-4069-4aa1-a22f-fc95fa3cb3fa/Making_Sense_434_Eliezer_Yudkowsky__Nate_Soares-Subscriber.mp3</guid>
+        <itunes:duration>01:49:21</itunes:duration>
+    </item>
     
     <item>
       <title>Episode 342: Animal Minds &amp; Moral Truths - Peter Singer</title>
