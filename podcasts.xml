@@ -7,225 +7,170 @@
     <description>A curated collection of interesting podcast episodes</description>
     <itunes:author>Various Authors</itunes:author>
     <itunes:category text="Society &amp; Culture"/>
-
-    <itunes:image href="https://raw.githubusercontent.com/scott-testit/scott-testit.github.io/133f35fa3018161e0429ce750652c4d32c6fc259/alig-booyaka.jpg" />
+    <itunes:image href="https://raw.githubusercontent.com/scott-testit/scott-testit.github.io/refs/heads/main/alig-booyaka.jpg"/>
     <image>
-      <url>https://raw.githubusercontent.com/scott-testit/scott-testit.github.io/133f35fa3018161e0429ce750652c4d32c6fc259/alig-booyaka.jpg</url>
+      <url>https://raw.githubusercontent.com/scott-testit/scott-testit.github.io/refs/heads/main/alig-booyaka.jpg</url>
       <title>AAA Private Podcast Collection</title>
       <link>https://scott-testit.github.io/podcasts.xml</link>
-  </image>
+    </image>
 
+    <!-- Items with Episode number, sorted descending by title -->
     <item>
-        <title>Episode 391: The Reckoning</title>
-        <itunes:title>The Reckoning</itunes:title>
-        <itunes:author>Sam Harris</itunes:author>
-        <itunes:subtitle>The Reckoning</itunes:subtitle>
-        <enclosure
-            url="https://assets.samharris.org/episodes/audios/593e9f5e-9127-4f6f-8156-36bce67c273b/The-Reckoning-Final.mp3"
-            length="0"
-            type="audio/mpeg"/>
-        <guid>https://assets.samharris.org/episodes/audios/593e9f5e-9127-4f6f-8156-36bce67c273b/The-Reckoning-Final.mp3</guid>
-        <pubDate>Mon, 11 Nov 2024 12:00:00 GMT</pubDate>
-        <itunes:duration>00:39:47</itunes:duration>
-    </item>
-
-    <item>
-        <title>Episode 400: Helen Lewis</title>
-        <itunes:title>Helen Lewis</itunes:title>
-        <itunes:author>Sam Harris</itunes:author>
-        <itunes:subtitle>Helen Lewis</itunes:subtitle>
-        <enclosure
-            url="https://assets.samharris.org/episodes/audios/1be530ab-2821-4f10-baae-5a37158221e3/Making_Sense_400_Helen_Lewis_subscriber.mp3"
-            length="0"
-            type="audio/mpeg"/>
-        <guid>https://assets.samharris.org/episodes/audios/1be530ab-2821-4f10-baae-5a37158221e3/Making_Sense_400_Helen_Lewis_subscriber.mp3</guid>
-        <pubDate>Thu, 06 Feb 2025 12:00:00 GMT</pubDate>
-        <itunes:duration>01:37:41</itunes:duration>
-    </item>
-
-    <item>
-        <title>Episode 258: The Fall of Afghanistan</title>
-        <itunes:title>The Fall of Afghanistan</itunes:title>
-        <itunes:author>Sam Harris</itunes:author>
-        <itunes:subtitle>The Fall of Afghanistan</itunes:subtitle>
-        <enclosure
-            url="https://assets.samharris.org/episodes/audios/878aed25-2a21-4719-9771-8a74bfe6aeda/77fe7ef0-b8ad-4c0c-9406-6dcca475e874.mp3"
-            length="0"
-            type="audio/mpeg"/>
-        <guid>https://assets.samharris.org/episodes/audios/878aed25-2a21-4719-9771-8a74bfe6aeda/77fe7ef0-b8ad-4c0c-9406-6dcca475e874.mp3</guid>
-        <pubDate>Sun, 22 Aug 2021 12:00:00 GMT</pubDate>
-        <itunes:duration>01:27:11</itunes:duration>
-    </item>
-    
-    
-    <item>
-        <title>Episode 438: MFS (Oct 10, 2025)</title>
-        <itunes:title>MFS</itunes:title>
-        <itunes:author>Sam Harris</itunes:author>
-        <itunes:subtitle>MFS</itunes:subtitle>
-        <enclosure
-            url="https://assets.samharris.org/episodes/audios/47b605e1-b9ab-441f-8322-1e5795bb495f/Making_Sense_438_MFS_10-10-25-subscriber-V3.mp3"
-            length="0"
-            type="audio/mpeg"/>
-        <guid>https://assets.samharris.org/episodes/audios/47b605e1-b9ab-441f-8322-1e5795bb495f/Making_Sense_438_MFS_10-10-25-subscriber-V3.mp3</guid>
-        <pubDate>Fri, 10 Oct 2025 12:00:00 GMT</pubDate>
-        <itunes:duration>01:02:00</itunes:duration>
-    </item>
-    <item>
-        <title>Episode 445: MFS (Nov 25, 2025)</title>
-        <itunes:title>MFS</itunes:title>
-        <itunes:author>Sam Harris</itunes:author>
-        <itunes:subtitle>MFS</itunes:subtitle>
-        <enclosure
-            url="https://assets.samharris.org/episodes/audios/f33c0b00-afe5-4c75-be6b-1fd6505ee8f2/Making_Sense_445_MFS_11-25-25-subscriber.mp3"
-            length="0"
-            type="audio/mpeg"/>
-        <guid>https://assets.samharris.org/episodes/audios/f33c0b00-afe5-4c75-be6b-1fd6505ee8f2/Making_Sense_445_MFS_11-25-25-subscriber.mp3</guid>
-        <pubDate>Tue, 25 Nov 2025 12:00:00 GMT</pubDate>
-        <itunes:duration>00:58:28</itunes:duration>
-    </item>
-    <item>
-        <title>Episode 442: MFS (Nov 30, 2025)</title>
-        <itunes:title>MFS</itunes:title>
-        <itunes:author>Sam Harris</itunes:author>
-        <itunes:subtitle>MFS</itunes:subtitle>
-        <enclosure
-            url="https://assets.samharris.org/episodes/audios/764ab09f-6eb8-4b19-b12a-26d5609c9c3d/Making_Sense_442_MFS_11-31-25-subscriber.mp3"
-            length="0"
-            type="audio/mpeg"/>
-        <guid>https://assets.samharris.org/episodes/audios/764ab09f-6eb8-4b19-b12a-26d5609c9c3d/Making_Sense_442_MFS_11-31-25-subscriber.mp3</guid>
-        <pubDate>Mon, 30 Nov 2025 12:00:00 GMT</pubDate>
-        <itunes:duration>00:43:00</itunes:duration>
-    </item>
-    <item>
-        <title>Episode 381: Steven Bonnell</title>
-        <itunes:title>Steven Bonnell</itunes:title>
-        <itunes:author>Sam Harris</itunes:author>
-        <itunes:subtitle>Steven Bonnell</itunes:subtitle>
-        <enclosure
-            url="https://assets.samharris.org/episodes/audios/0613a070-6c5b-40d8-9559-1c8842401c5d/Making_Sense_381_Steven_Bonnell_subscriber.mp3"
-            length="0"
-            type="audio/mpeg"/>
-        <guid>https://assets.samharris.org/episodes/audios/0613a070-6c5b-40d8-9559-1c8842401c5d/Making_Sense_381_Steven_Bonnell_subscriber.mp3</guid>
-        <itunes:duration>01:46:03</itunes:duration>
-    </item>
-
-    <item>
-        <title>Episode 386: Yuval Noah Harrari</title>
-        <itunes:title>Yuval Noah Harrari</itunes:title>
-        <itunes:author>Sam Harris</itunes:author>
-        <itunes:subtitle>Yuval Noah Harrari</itunes:subtitle>
-        <enclosure
-            url="https://assets.samharris.org/episodes/audios/131b53a1-9f1f-4ff3-95da-ad565669adda/Making_Sense_386_Yuval_Noah_Harrari_subscriber.mp3"
-            length="0"
-            type="audio/mpeg"/>
-        <guid>https://assets.samharris.org/episodes/audios/131b53a1-9f1f-4ff3-95da-ad565669adda/Making_Sense_386_Yuval_Noah_Harrari_subscriber.mp3</guid>
-        <itunes:duration>02:04:46</itunes:duration>
-    </item>
-
-    <item>
-        <title>Episode 443: Douglas Wilson</title>
-        <itunes:title>Douglas Wilson</itunes:title>
-        <itunes:author>Sam Harris</itunes:author>
-        <itunes:subtitle>Douglas Wilson</itunes:subtitle>
-        <enclosure
-            url="https://assets.samharris.org/episodes/audios/3b0e3cff-59e0-412c-9469-e182f0f0db35/Making_Sense_443_Douglas_Wilson-Subscriber.mp3"
-            length="0"
-            type="audio/mpeg"/>
-        <guid>https://assets.samharris.org/episodes/audios/3b0e3cff-59e0-412c-9469-e182f0f0db35/Making_Sense_443_Douglas_Wilson-Subscriber.mp3</guid>
-        <itunes:duration>01:59:30</itunes:duration>
-    </item>
-
-    <item>
-        <title>Episode 449: Ross Douthout</title>
-        <itunes:title>Ross Douthout</itunes:title>
-        <itunes:author>Sam Harris</itunes:author>
-        <itunes:subtitle>Ross Douthout</itunes:subtitle>
-        <enclosure
-            url="https://assets.samharris.org/episodes/audios/3394d9c4-e636-40c3-8977-21e7b06e4dee/Making_Sense_449_Ross_Douthout-subscriber.mp3"
-            length="0"
-            type="audio/mpeg"/>
-        <guid>https://assets.samharris.org/episodes/audios/3394d9c4-e636-40c3-8977-21e7b06e4dee/Making_Sense_449_Ross_Douthout-subscriber.mp3</guid>
-        <itunes:duration>01:46:53</itunes:duration>
-    </item>
-
-    <item>
-        <title>Episode 434: Eliezer Yudkowsky &amp; Nate Soares</title>
-        <itunes:title>Eliezer Yudkowsky &amp; Nate Soares</itunes:title>
-        <itunes:author>Sam Harris</itunes:author>
-        <itunes:subtitle>Eliezer Yudkowsky &amp; Nate Soares</itunes:subtitle>
-        <enclosure
-            url="https://assets.samharris.org/episodes/audios/88abceb2-4069-4aa1-a22f-fc95fa3cb3fa/Making_Sense_434_Eliezer_Yudkowsky__Nate_Soares-Subscriber.mp3"
-            length="0"
-            type="audio/mpeg"/>
-        <guid>https://assets.samharris.org/episodes/audios/88abceb2-4069-4aa1-a22f-fc95fa3cb3fa/Making_Sense_434_Eliezer_Yudkowsky__Nate_Soares-Subscriber.mp3</guid>
-        <itunes:duration>01:49:21</itunes:duration>
-    </item>
-    
-    <item>
-      <title>Episode 342: Animal Minds &amp; Moral Truths - Peter Singer</title>
-      <itunes:title>Animal Minds &amp; Moral Truths - Peter Singer</itunes:title>
+      <title>Episode 449: Ross Douthout</title>
+      <itunes:title>Ross Douthout</itunes:title>
       <itunes:author>Sam Harris</itunes:author>
-      <itunes:subtitle>Discussion on animal consciousness and ethics</itunes:subtitle>
-      <enclosure url="https://assets.samharris.org/episodes/audios/ec0e649f-ebe3-446d-957a-c5649325be1c/Making_Sense_342_Peter_Singer_subscriber.mp3" length="10000000" type="audio/mpeg"/>
-      <guid>https://assets.samharris.org/episodes/audios/ec0e649f-ebe3-446d-957a-c5649325be1c/Making_Sense_342_Peter_Singer_subscriber.mp3</guid>
-      <pubDate>Mon, 01 Jan 2023 12:00:00 GMT</pubDate>
-      <itunes:duration>01:15:30</itunes:duration>
+      <itunes:subtitle>Ross Douthout</itunes:subtitle>
+      <itunes:image href="https://raw.githubusercontent.com/scott-testit/scott-testit.github.io/133f35fa3018161e0429ce750652c4d32c6fc259/alig-booyaka.jpg"/>
+      <enclosure url="https://assets.samharris.org/episodes/audios/3394d9c4-e636-40c3-8977-21e7b06e4dee/Making_Sense_449_Ross_Douthout-subscriber.mp3" length="0" type="audio/mpeg"/>
+      <guid>https://assets.samharris.org/episodes/audios/3394d9c4-e636-40c3-8977-21e7b06e4dee/Making_Sense_449_Ross_Douthout-subscriber.mp3</guid>
+      <itunes:duration>01:46:53</itunes:duration>
+      <pubDate>Tue, 25 Nov 2025 12:00:00 GMT</pubDate>
     </item>
-    
+
     <item>
-      <title>Episode 384: Stress Testing Our Democracy - Barton Gellman</title>
-      <itunes:title>Stress Testing Our Democracy - Barton Gellman</itunes:title>
+      <title>Episode 443: Douglas Wilson</title>
+      <itunes:title>Douglas Wilson</itunes:title>
       <itunes:author>Sam Harris</itunes:author>
-      <itunes:subtitle>Examining challenges to democratic institutions</itunes:subtitle>
-      <enclosure url="https://assets.samharris.org/episodes/audios/1fb55a04-2457-4355-972e-85440c9ef362/Making_Sense_384_Barton_Gellman_subscriber.mp3" length="9500000" type="audio/mpeg"/>
-      <guid>https://assets.samharris.org/episodes/audios/1fb55a04-2457-4355-972e-85440c9ef362/Making_Sense_384_Barton_Gellman_subscriber.mp3</guid>
-      <pubDate>Mon, 15 Jan 2023 12:00:00 GMT</pubDate>
-      <itunes:duration>01:12:45</itunes:duration>
+      <itunes:subtitle>Douglas Wilson</itunes:subtitle>
+      <itunes:image href="https://raw.githubusercontent.com/scott-testit/scott-testit.github.io/133f35fa3018161e0429ce750652c4d32c6fc259/alig-booyaka.jpg"/>
+      <enclosure url="https://assets.samharris.org/episodes/audios/3b0e3cff-59e0-412c-9469-e182f0f0db35/Making_Sense_443_Douglas_Wilson-Subscriber.mp3" length="0" type="audio/mpeg"/>
+      <guid>https://assets.samharris.org/episodes/audios/3b0e3cff-59e0-412c-9469-e182f0f0db35/Making_Sense_443_Douglas_Wilson-Subscriber.mp3</guid>
+      <itunes:duration>01:59:30</itunes:duration>
+      <pubDate>Mon, 30 Nov 2025 12:00:00 GMT</pubDate>
     </item>
-    
+
     <item>
-      <title>Episode 399: The Politics of Catastrophe - Rick Caruso</title>
-      <itunes:title>The Politics of Catastrophe - Rick Caruso</itunes:title>
+      <title>Episode 442: MFS (Nov 30, 2025)</title>
+      <itunes:title>MFS</itunes:title>
       <itunes:author>Sam Harris</itunes:author>
-      <itunes:subtitle>How societies respond to catastrophic events</itunes:subtitle>
-      <enclosure url="https://assets.samharris.org/episodes/audios/51690033-b532-406f-ae68-5b27fd2d4430/Making_Sense_399_Rick_Caruso_subscriber.mp3" length="25000000" type="audio/mpeg"/>
-      <guid>https://assets.samharris.org/episodes/audios/51690033-b532-406f-ae68-5b27fd2d4430/Making_Sense_399_Rick_Caruso_subscriber.mp3</guid>
-      <pubDate>Mon, 05 Feb 2023 12:00:00 GMT</pubDate>
-      <itunes:duration>01:05:20</itunes:duration>
+      <itunes:subtitle>MFS</itunes:subtitle>
+      <itunes:image href="https://raw.githubusercontent.com/scott-testit/scott-testit.github.io/133f35fa3018161e0429ce750652c4d32c6fc259/alig-booyaka.jpg"/>
+      <enclosure url="https://assets.samharris.org/episodes/audios/764ab09f-6eb8-4b19-b12a-26d5609c9c3d/Making_Sense_442_MFS_11-31-25-subscriber.mp3" length="0" type="audio/mpeg"/>
+      <guid>https://assets.samharris.org/episodes/audios/764ab09f-6eb8-4b19-b12a-26d5609c9c3d/Making_Sense_442_MFS_11-31-25-subscriber.mp3</guid>
+      <itunes:duration>00:43:00</itunes:duration>
+      <pubDate>Mon, 30 Nov 2025 12:00:00 GMT</pubDate>
     </item>
-    
+
+    <item>
+      <title>Episode 438: MFS (Oct 10, 2025)</title>
+      <itunes:title>MFS</itunes:title>
+      <itunes:author>Sam Harris</itunes:author>
+      <itunes:subtitle>MFS</itunes:subtitle>
+      <itunes:image href="https://raw.githubusercontent.com/scott-testit/scott-testit.github.io/133f35fa3018161e0429ce750652c4d32c6fc259/alig-booyaka.jpg"/>
+      <enclosure url="https://assets.samharris.org/episodes/audios/47b605e1-b9ab-441f-8322-1e5795bb495f/Making_Sense_438_MFS_10-10-25-subscriber-V3.mp3" length="0" type="audio/mpeg"/>
+      <guid>https://assets.samharris.org/episodes/audios/47b605e1-b9ab-441f-8322-1e5795bb495f/Making_Sense_438_MFS_10-10-25-subscriber-V3.mp3</guid>
+      <itunes:duration>01:02:00</itunes:duration>
+      <pubDate>Fri, 10 Oct 2025 12:00:00 GMT</pubDate>
+    </item>
+
     <item>
       <title>Episode 414: Strange Truths - David Deutsch</title>
       <itunes:title>Strange Truths - David Deutsch</itunes:title>
       <itunes:author>Sam Harris</itunes:author>
       <itunes:subtitle>Exploring the foundations of knowledge</itunes:subtitle>
+      <itunes:image href="https://raw.githubusercontent.com/scott-testit/scott-testit.github.io/133f35fa3018161e0429ce750652c4d32c6fc259/alig-booyaka.jpg"/>
       <enclosure url="https://assets.samharris.org/episodes/audios/50c43ffa-ed74-4f30-9bcc-425d373fcc8e/Making_Sense_414_David_Deutsch_subscriber.mp3" length="28000000" type="audio/mpeg"/>
       <guid>https://assets.samharris.org/episodes/audios/50c43ffa-ed74-4f30-9bcc-425d373fcc8e/Making_Sense_414_David_Deutsch_subscriber.mp3</guid>
-      <pubDate>Mon, 20 Feb 2023 12:00:00 GMT</pubDate>
       <itunes:duration>01:18:15</itunes:duration>
+      <pubDate>Mon, 20 Feb 2023 12:00:00 GMT</pubDate>
     </item>
-    
+
     <item>
-      <title>Episode 418: A future for Democrats - Ritchie Torres</title>
-      <itunes:title>A future for Democrats - Ritchie Torres</itunes:title>
+      <title>Episode 400: Helen Lewis</title>
+      <itunes:title>Helen Lewis</itunes:title>
       <itunes:author>Sam Harris</itunes:author>
-      <itunes:subtitle>The direction of the Democratic party</itunes:subtitle>
-      <enclosure url="https://traffic.libsyn.com/wakingup/Making_Sense_418_Ritchie_Torres_subscriber.mp3" length="8900000" type="audio/mpeg"/>
-      <guid>https://traffic.libsyn.com/wakingup/Making_Sense_418_Ritchie_Torres_subscriber.mp3</guid>
-      <pubDate>Mon, 05 Mar 2023 12:00:00 GMT</pubDate>
-      <itunes:duration>01:10:05</itunes:duration>
+      <itunes:subtitle>Helen Lewis</itunes:subtitle>
+      <itunes:image href="https://raw.githubusercontent.com/scott-testit/scott-testit.github.io/133f35fa3018161e0429ce750652c4d32c6fc259/alig-booyaka.jpg"/>
+      <enclosure url="https://assets.samharris.org/episodes/audios/1be530ab-2821-4f10-baae-5a37158221e3/Making_Sense_400_Helen_Lewis_subscriber.mp3" length="0" type="audio/mpeg"/>
+      <guid>https://assets.samharris.org/episodes/audios/1be530ab-2821-4f10-baae-5a37158221e3/Making_Sense_400_Helen_Lewis_subscriber.mp3</guid>
+      <itunes:duration>01:37:41</itunes:duration>
+      <pubDate>Thu, 06 Feb 2025 12:00:00 GMT</pubDate>
     </item>
-    
+
     <item>
-      <title>Episode 433: How Did We Get Here - Dan Carlin</title>
+      <title>Episode 399: The Politics of Catastrophe - Rick Caruso</title>
+      <itunes:title>The Politics of Catastrophe - Rick Caruso</itunes:title>
+      <itunes:author>Sam Harris</itunes:author>
+      <itunes:subtitle>How societies respond to catastrophic events</itunes:subtitle>
+      <itunes:image href="https://raw.githubusercontent.com/scott-testit/scott-testit.github.io/133f35fa3018161e0429ce750652c4d32c6fc259/alig-booyaka.jpg"/>
+      <enclosure url="https://assets.samharris.org/episodes/audios/51690033-b532-406f-ae68-5b27fd2d4430/Making_Sense_399_Rick_Caruso_subscriber.mp3" length="25000000" type="audio/mpeg"/>
+      <guid>https://assets.samharris.org/episodes/audios/51690033-b532-406f-ae68-5b27fd2d4430/Making_Sense_399_Rick_Caruso_subscriber.mp3</guid>
+      <itunes:duration>01:05:20</itunes:duration>
+      <pubDate>Mon, 05 Feb 2023 12:00:00 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>Episode 386: Yuval Noah Harrari</title>
+      <itunes:title>Yuval Noah Harrari</itunes:title>
+      <itunes:author>Sam Harris</itunes:author>
+      <itunes:subtitle>Yuval Noah Harrari</itunes:subtitle>
+      <itunes:image href="https://raw.githubusercontent.com/scott-testit/scott-testit.github.io/133f35fa3018161e0429ce750652c4d32c6fc259/alig-booyaka.jpg"/>
+      <enclosure url="https://assets.samharris.org/episodes/audios/131b53a1-9f1f-4ff3-95da-ad565669adda/Making_Sense_386_Yuval_Noah_Harrari_subscriber.mp3" length="0" type="audio/mpeg"/>
+      <guid>https://assets.samharris.org/episodes/audios/131b53a1-9f1f-4ff3-95da-ad565669adda/Making_Sense_386_Yuval_Noah_Harrari_subscriber.mp3</guid>
+      <itunes:duration>02:04:46</itunes:duration>
+      <pubDate>Mon, 15 Jan 2023 12:00:00 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>Episode 384: Stress Testing Our Democracy - Barton Gellman</title>
+      <itunes:title>Stress Testing Our Democracy - Barton Gellman</itunes:title>
+      <itunes:author>Sam Harris</itunes:author>
+      <itunes:subtitle>Examining challenges to democratic institutions</itunes:subtitle>
+      <itunes:image href="https://raw.githubusercontent.com/scott-testit/scott-testit.github.io/133f35fa3018161e0429ce750652c4d32c6fc259/alig-booyaka.jpg"/>
+      <enclosure url="https://assets.samharris.org/episodes/audios/1fb55a04-2457-4355-972e-85440c9ef362/Making_Sense_384_Barton_Gellman_subscriber.mp3" length="9500000" type="audio/mpeg"/>
+      <guid>https://assets.samharris.org/episodes/audios/1fb55a04-2457-4355-972e-85440c9ef362/Making_Sense_384_Barton_Gellman_subscriber.mp3</guid>
+      <itunes:duration>01:12:45</itunes:duration>
+      <pubDate>Mon, 15 Jan 2023 12:00:00 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>Episode 381: Steven Bonnell</title>
+      <itunes:title>Steven Bonnell</itunes:title>
+      <itunes:author>Sam Harris</itunes:author>
+      <itunes:subtitle>Steven Bonnell</itunes:subtitle>
+      <itunes:image href="https://raw.githubusercontent.com/scott-testit/scott-testit.github.io/133f35fa3018161e0429ce750652c4d32c6fc259/alig-booyaka.jpg"/>
+      <enclosure url="https://assets.samharris.org/episodes/audios/0613a070-6c5b-40d8-9559-1c8842401c5d/Making_Sense_381_Steven_Bonnell_subscriber.mp3" length="0" type="audio/mpeg"/>
+      <guid>https://assets.samharris.org/episodes/audios/0613a070-6c5b-40d8-9559-1c8842401c5d/Making_Sense_381_Steven_Bonnell_subscriber.mp3</guid>
+      <itunes:duration>01:46:03</itunes:duration>
+      <pubDate>Mon, 22 Aug 2021 12:00:00 GMT</pubDate>
+    </item>
+
+    <!-- Items without episode number, original order preserved -->
+    <item>
+      <title>The Reckoning</title>
+      <itunes:title>The Reckoning</itunes:title>
+      <itunes:author>Sam Harris</itunes:author>
+      <itunes:subtitle>The Reckoning</itunes:subtitle>
+      <itunes:image href="https://raw.githubusercontent.com/scott-testit/scott-testit.github.io/133f35fa3018161e0429ce750652c4d32c6fc259/alig-booyaka.jpg"/>
+      <enclosure url="https://assets.samharris.org/episodes/audios/593e9f5e-9127-4f6f-8156-36bce67c273b/The-Reckoning-Final.mp3" length="0" type="audio/mpeg"/>
+      <guid>https://assets.samharris.org/episodes/audios/593e9f5e-9127-4f6f-8156-36bce67c273b/The-Reckoning-Final.mp3</guid>
+      <itunes:duration>00:39:47</itunes:duration>
+      <pubDate>Mon, 11 Nov 2024 12:00:00 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>Eliezer Yudkowsky &amp; Nate Soares</title>
+      <itunes:title>Eliezer Yudkowsky &amp; Nate Soares</itunes:title>
+      <itunes:author>Sam Harris</itunes:author>
+      <itunes:subtitle>Eliezer Yudkowsky &amp; Nate Soares</itunes:subtitle>
+      <itunes:image href="https://raw.githubusercontent.com/scott-testit/scott-testit.github.io/133f35fa3018161e0429ce750652c4d32c6fc259/alig-booyaka.jpg"/>
+      <enclosure url="https://assets.samharris.org/episodes/audios/88abceb2-4069-4aa1-a22f-fc95fa3cb3fa/Making_Sense_434_Eliezer_Yudkowsky__Nate_Soares-Subscriber.mp3" length="0" type="audio/mpeg"/>
+      <guid>https://assets.samharris.org/episodes/audios/88abceb2-4069-4aa1-a22f-fc95fa3cb3fa/Making_Sense_434_Eliezer_Yudkowsky__Nate_Soares-Subscriber.mp3</guid>
+      <itunes:duration>01:49:21</itunes:duration>
+      <pubDate>Mon, 20 Mar 2023 12:00:00 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>How Did We Get Here - Dan Carlin</title>
       <itunes:title>How Did We Get Here - Dan Carlin</itunes:title>
       <itunes:author>Sam Harris</itunes:author>
       <itunes:subtitle>Historical perspective on current events</itunes:subtitle>
+      <itunes:image href="https://raw.githubusercontent.com/scott-testit/scott-testit.github.io/133f35fa3018161e0429ce750652c4d32c6fc259/alig-booyaka.jpg"/>
       <enclosure url="https://assets.samharris.org/episodes/audios/6d61f7b4-5330-4469-8afb-82ce6bdafe8e/Making_Sense_433_Dan_Carlin-subscriber.mp3" length="32000000" type="audio/mpeg"/>
       <guid>https://assets.samharris.org/episodes/audios/6d61f7b4-5330-4469-8afb-82ce6bdafe8e/Making_Sense_433_Dan_Carlin-subscriber.mp3</guid>
-      <pubDate>Mon, 20 Mar 2023 12:00:00 GMT</pubDate>
       <itunes:duration>01:25:40</itunes:duration>
+      <pubDate>Mon, 20 Mar 2023 12:00:00 GMT</pubDate>
     </item>
+
   </channel>
 </rss>
