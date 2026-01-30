@@ -8,10 +8,10 @@
     <itunes:author>Various Authors</itunes:author>
     <itunes:category text="Society &amp; Culture"/>
 
-    <itunes:image href="https://raw.githubusercontent.com/scott-testit/scott-testit.github.io/133f35fa3018161e0429ce750652c4d32c6fc259/alig-booyaka.jpg" />
+    <itunes:image href="https://raw.githubusercontent.com/scott-testit/scott-testit.github.io/refs/heads/main/alig-booyaka.jpg" />
     <image>
-      <url>https://raw.githubusercontent.com/scott-testit/scott-testit.github.io/133f35fa3018161e0429ce750652c4d32c6fc259/alig-booyaka.jpg</url>
-      <title>AAA Private Podcast Collection</title>
+      <url>https://raw.githubusercontent.com/scott-testit/scott-testit.github.io/refs/heads/main/alig-booyaka.jpg</url>
+      <title>A A A Private Podcast Collection</title>
       <link>https://scott-testit.github.io/podcasts.xml</link>
   </image>
 
