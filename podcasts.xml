@@ -13,7 +13,105 @@
       <url>https://raw.githubusercontent.com/scott-testit/scott-testit.github.io/refs/heads/main/alig-booyaka.jpg</url>
       <title>A A A Private Podcast Collection</title>
       <link>https://scott-testit.github.io/podcasts.xml</link>
-  </image>
+    </image>
+    
+    <item>
+        <title>Episode 455: More From Sam: Guns, Propaganda, AI, and Power Unbound</title>
+        <itunes:title>More From Sam: Guns, Propaganda, AI, and Power Unbound</itunes:title>
+        <itunes:author>Sam Harris</itunes:author>
+        <itunes:subtitle>More From Sam: Guns, Propaganda, AI, and Power Unbound</itunes:subtitle>
+        <enclosure
+            url="https://assets.samharris.org/episodes/audios/d26a45e1-0bfb-4d87-a51d-90436d1361d6/Making_Sense_455_MFS_1-29-26-subscriber.mp3?token=bf7e49bf-3274-47b5-beb0-46df5267cb30"
+            length="0"
+            type="audio/mpeg"/>
+        <guid>https://assets.samharris.org/episodes/audios/d26a45e1-0bfb-4d87-a51d-90436d1361d6/Making_Sense_455_MFS_1-29-26-subscriber.mp3?token=bf7e49bf-3274-47b5-beb0-46df5267cb30</guid>
+        <pubDate>Fri, 30 Jan 2026 12:00:00 GMT</pubDate>
+        <itunes:duration>00:36:11</itunes:duration>
+    </item>
+    
+    <item>
+        <title>Episode 454: More From Sam: Minnesota, Greenland, Iran, S**thole Countries, and More</title>
+        <itunes:title>More From Sam: Minnesota, Greenland, Iran, S**thole Countries, and More</itunes:title>
+        <itunes:author>Sam Harris</itunes:author>
+        <itunes:subtitle>More From Sam: Minnesota, Greenland, Iran, S**thole Countries, and More</itunes:subtitle>
+        <enclosure
+            url="https://assets.samharris.org/episodes/audios/c2a2431c-0a18-43dd-af3c-edeb3dc75cc3/Making_Sense_453_MFS_1-21-26-subscriber.mp3?token=bf7e49bf-3274-47b5-beb0-46df5267cb30"
+            length="0"
+            type="audio/mpeg"/>
+        <guid>https://assets.samharris.org/episodes/audios/c2a2431c-0a18-43dd-af3c-edeb3dc75cc3/Making_Sense_453_MFS_1-21-26-subscriber.mp3?token=bf7e49bf-3274-47b5-beb0-46df5267cb30</guid>
+        <pubDate>Wed, 21 Jan 2026 12:00:00 GMT</pubDate>
+        <itunes:duration>00:59:07</itunes:duration>
+    </item>
+    
+    <item>
+        <title>Episode 453: AI and the New Face of Antisemitism</title>
+        <itunes:title>AI and the New Face of Antisemitism</itunes:title>
+        <itunes:author>Sam Harris</itunes:author>
+        <itunes:subtitle>AI and the New Face of Antisemitism</itunes:subtitle>
+        <enclosure
+            url="https://assets.samharris.org/episodes/audios/69ed8c73-e7b8-4f49-bbfb-8dc24ca01362/Making_Sense_452_Judea_Pearl-subscriber.mp3?token=bf7e49bf-3274-47b5-beb0-46df5267cb30"
+            length="0"
+            type="audio/mpeg"/>
+        <guid>https://assets.samharris.org/episodes/audios/69ed8c73-e7b8-4f49-bbfb-8dc24ca01362/Making_Sense_452_Judea_Pearl-subscriber.mp3?token=bf7e49bf-3274-47b5-beb0-46df5267cb30</guid>
+        <pubDate>Fri, 16 Jan 2026 12:00:00 GMT</pubDate>
+        <itunes:duration>01:21:54</itunes:duration>
+    </item>
+
+    <item>
+        <title>Episode 452: Is Wokeness Finally Dead</title>
+        <itunes:title>Is Wokeness Finally Dead</itunes:title>
+        <itunes:author>Sam Harris</itunes:author>
+        <itunes:subtitle>Is Wokeness Finally Dead</itunes:subtitle>
+        <enclosure
+            url="https://assets.samharris.org/episodes/audios/73faad02-5e01-41ad-9a11-dee8950a2848/Making_Sense_451_John_McWhorter-subscriber.mp3?token=bf7e49bf-3274-47b5-beb0-46df5267cb30"
+            length="0"
+            type="audio/mpeg"/>
+        <guid>https://assets.samharris.org/episodes/audios/73faad02-5e01-41ad-9a11-dee8950a2848/Making_Sense_451_John_McWhorter-subscriber.mp3?token=bf7e49bf-3274-47b5-beb0-46df5267cb30</guid>
+        <pubDate>Wed, 07 Jan 2026 12:00:00 GMT</pubDate>
+        <itunes:duration>01:00:26</itunes:duration>
+    </item>
+
+    <item>
+        <title>Episode 450: More From Sam: Resolutions, Conspiracies, Demonology, and the Fate</title>
+        <itunes:title>More From Sam: Resolutions, Conspiracies, Demonology, and the Fate</itunes:title>
+        <itunes:author>Sam Harris</itunes:author>
+        <itunes:subtitle>More From Sam: Resolutions, Conspiracies, Demonology, and the Fate</itunes:subtitle>
+        <enclosure
+            url="https://assets.samharris.org/episodes/audios/7f33ad39-bdd8-47c2-8fb6-0b98fa0abd98/Making_Sense_450_MFS_12-29-25-subscriber.mp3?token=bf7e49bf-3274-47b5-beb0-46df5267cb30"
+            length="0"
+            type="audio/mpeg"/>
+        <guid>https://assets.samharris.org/episodes/audios/7f33ad39-bdd8-47c2-8fb6-0b98fa0abd98/Making_Sense_450_MFS_12-29-25-subscriber.mp3?token=bf7e49bf-3274-47b5-beb0-46df5267cb30</guid>
+        <pubDate>Tue, 30 Dec 2025 12:00:00 GMT</pubDate>
+        <itunes:duration>01:15:28</itunes:duration>
+    </item>
+
+    <item>
+        <title>Episode 431: What Is Happening on College Campuses?</title>
+        <itunes:title>What Is Happening on College Campuses?</itunes:title>
+        <itunes:author>Sam Harris</itunes:author>
+        <itunes:subtitle>What Is Happening on College Campuses?</itunes:subtitle>
+        <enclosure
+            url="https://assets.samharris.org/episodes/audios/9b9e2e47-c03a-4c36-be90-0dee7c12d864/Making_Sense_431_Michael_Roth-subscriber.mp3"
+            length="0"
+            type="audio/mpeg"/>
+        <guid>https://assets.samharris.org/episodes/audios/9b9e2e47-c03a-4c36-be90-0dee7c12d864/Making_Sense_431_Michael_Roth-subscriber.mp3</guid>
+        <pubDate>Mon, 25 Aug 2025 12:00:00 GMT</pubDate>
+        <itunes:duration>01:04:34</itunes:duration>
+    </item>
+
+    <item>
+        <title>Episode 430: More From Sam: Trump, Gavin Newsom, Class War, DOGE, & Rapid Fire Questions</title>
+        <itunes:title>More From Sam: Trump, Gavin Newsom, Class War, DOGE, & Rapid Fire Questions</itunes:title>
+        <itunes:author>Sam Harris</itunes:author>
+        <itunes:subtitle>More From Sam: Trump, Gavin Newsom, Class War, DOGE, & Rapid Fire Questions</itunes:subtitle>
+        <enclosure
+            url="https://assets.samharris.org/episodes/audios/57af330e-6dc4-46ce-baee-8de99a4f8a93/Making_Sense_430_MFS_8-20-25-subscriber.mp3"
+            length="0"
+            type="audio/mpeg"/>
+        <guid>https://assets.samharris.org/episodes/audios/57af330e-6dc4-46ce-baee-8de99a4f8a93/Making_Sense_430_MFS_8-20-25-subscriber.mp3</guid>
+        <pubDate>Wed, 20 Aug 2025 12:00:00 GMT</pubDate>
+        <itunes:duration>00:41:03</itunes:duration>
+    </item>
 
     <item>
         <title>Episode 391: The Reckoning</title>
