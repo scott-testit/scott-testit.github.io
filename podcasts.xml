@@ -14,6 +14,22 @@
       <title>A A A Private Podcast Collection</title>
       <link>https://scott-testit.github.io/podcasts.xml</link>
     </image>
+
+    <!-- Sam Harris Podcast episodes -->
+    
+    <item>
+        <title>Episode 458: The Bulwark Against MAGA</title>
+        <itunes:title>The Bulwark Against MAGA</itunes:title>
+        <itunes:author>Sam Harris</itunes:author>
+        <itunes:subtitle>The Bulwark Against MAGA</itunes:subtitle>
+        <enclosure
+            url="https://assets.samharris.org/episodes/audios/834235c0-da7c-40f0-85b9-848eb29e42f2/Making_Sense_458_Sarah_Longwell__Tim_Miller-subscriber.mp3"
+            length="0"
+            type="audio/mpeg"/>
+        <guid>https://assets.samharris.org/episodes/audios/834235c0-da7c-40f0-85b9-848eb29e42f2/Making_Sense_458_Sarah_Longwell__Tim_Miller-subscriber.mp3</guid>
+        <pubDate>Wed, 11 Feb 2026 12:00:00 GMT</pubDate>
+        <itunes:duration>01:37:45</itunes:duration>
+    </item>
     
     <item>
         <title>Episode 455: More From Sam: Guns, Propaganda, AI, and Power Unbound</title>
