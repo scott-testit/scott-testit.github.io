@@ -16,6 +16,19 @@
     </image>
 
     <!-- Sam Harris Podcast episodes -->
+    <item>
+        <title>Episode 455: More From Sam: Guns, Propaganda, AI, and Power Unbound</title>
+        <itunes:title>More From Sam: Guns, Propaganda, AI, and Power UnboundA</itunes:title>
+        <itunes:author>Sam Harris</itunes:author>
+        <itunes:subtitle>More From Sam: Guns, Propaganda, AI, and Power UnboundA</itunes:subtitle>
+        <enclosure
+            url="https://assets.samharris.org/episodes/audios/d26a45e1-0bfb-4d87-a51d-90436d1361d6/Making_Sense_455_MFS_1-29-26-subscriber.mp3?token=bf7e49bf-3274-47b5-beb0-46df5267cb30"
+            length="0"
+            type="audio/mpeg"/>
+        <guid>https://assets.samharris.org/episodes/audios/d26a45e1-0bfb-4d87-a51d-90436d1361d6/Making_Sense_455_MFS_1-29-26-subscriber.mp3?token=bf7e49bf-3274-47b5-beb0-46df5267cb30</guid>
+        <pubDate>Wed, 11 Feb 2026 12:00:00 GMT</pubDate>
+        <itunes:duration>00:36:11</itunes:duration>
+    </item>
     
     <item>
         <title>Episode 458: The Bulwark Against MAGA</title>
