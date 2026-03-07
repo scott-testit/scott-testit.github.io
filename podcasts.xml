@@ -17,6 +17,90 @@
 
     <!-- Sam Harris Podcast episodes -->
     <item>
+        <title>Episode 462 - More From Sam: The Iran War, American Amorality, Addressing Hopelessness, Tucker, and More</title>
+        <itunes:title>More From Sam: The Iran War, American Amorality, Addressing Hopelessness, Tucker, and More</itunes:title>
+        <itunes:author>Sam Harris</itunes:author>
+        <itunes:subtitle>More From Sam: The Iran War, American Amorality, Addressing Hopelessness, Tucker, and More</itunes:subtitle>
+        <enclosure
+            url="https://assets.samharris.org/episodes/audios/03605d79-5967-4879-8b06-7b20fe69645e/Making_Sense_462_MFS_3-5-26-subscriber.mp3?token=c8c12916-56c4-42cf-83ec-6ff38af21694"
+            length="0"
+            type="audio/mpeg"/>
+        <guid>https://assets.samharris.org/episodes/audios/03605d79-5967-4879-8b06-7b20fe69645e/Making_Sense_462_MFS_3-5-26-subscriber.mp3?token=c8c12916-56c4-42cf-83ec-6ff38af21694</guid>
+        <pubDate>Fri, 06 Mar 2026 12:00:00 GMT</pubDate>
+        <itunes:duration>00:59:56</itunes:duration>
+    </item>
+
+    <item>
+        <title>Episode 456 - American Fascism</title>
+        <itunes:title>American Fascism</itunes:title>
+        <itunes:author>Sam Harris</itunes:author>
+        <itunes:subtitle>American Fascism</itunes:subtitle>
+        <enclosure
+            url="https://assets.samharris.org/episodes/audios/13bee192-45ed-49f8-ad77-4e727816078e/Making_Sense_456_Jonathan_Rauch-subscriber.mp3?token=c8c12916-56c4-42cf-83ec-6ff38af21694"
+            length="0"
+            type="audio/mpeg"/>
+        <guid>https://assets.samharris.org/episodes/audios/13bee192-45ed-49f8-ad77-4e727816078e/Making_Sense_456_Jonathan_Rauch-subscriber.mp3?token=c8c12916-56c4-42cf-83ec-6ff38af21694</guid>
+        <pubDate>Wed, 04 Feb 2026 12:00:00 GMT</pubDate>
+        <itunes:duration>01:26:10</itunes:duration>
+    </item>
+
+    <item>
+        <title>Episode 457 - More From Sam: The Epstein Files, The Newsom Factor, Don Lemon’s Arrest, AI Market Disruption, and More</title>
+        <itunes:title>More From Sam: The Epstein Files, The Newsom Factor, Don Lemon’s Arrest, AI Market Disruption, and More</itunes:title>
+        <itunes:author>Sam Harris</itunes:author>
+        <itunes:subtitle>More From Sam: The Epstein Files, The Newsom Factor, Don Lemon’s Arrest, AI Market Disruption, and More</itunes:subtitle>
+        <enclosure
+            url="https://assets.samharris.org/episodes/audios/06cd6d50-46b9-4bbe-9d44-b11ed5c3fdf9/Making_Sense_457_MFS_2-4-26-subscriber.mp3?token=c8c12916-56c4-42cf-83ec-6ff38af21694"
+            length="0"
+            type="audio/mpeg"/>
+        <guid>https://assets.samharris.org/episodes/audios/06cd6d50-46b9-4bbe-9d44-b11ed5c3fdf9/Making_Sense_457_MFS_2-4-26-subscriber.mp3?token=c8c12916-56c4-42cf-83ec-6ff38af21694</guid>
+        <pubDate>Thu, 05 Feb 2026 12:00:00 GMT</pubDate>
+        <itunes:duration>00:44:32</itunes:duration>
+    </item>
+
+    <item>
+        <title>Episode 444 - America’s Zombie Democracy</title>
+        <itunes:title>America’s Zombie Democracy</itunes:title>
+        <itunes:author>Sam Harris</itunes:author>
+        <itunes:subtitle>America’s Zombie Democracy</itunes:subtitle>
+        <enclosure
+            url="https://assets.samharris.org/episodes/audios/0288550e-9e2f-4c13-b1b1-4bcc81b5829f/Making_Sense_444_George_Packer-Subscriber.mp3?token=c8c12916-56c4-42cf-83ec-6ff38af21694"
+            length="0"
+            type="audio/mpeg"/>
+        <guid>https://assets.samharris.org/episodes/audios/0288550e-9e2f-4c13-b1b1-4bcc81b5829f/Making_Sense_444_George_Packer-Subscriber.mp3?token=c8c12916-56c4-42cf-83ec-6ff38af21694</guid>
+        <pubDate>Mon, 17 Nov 2025 12:00:00 GMT</pubDate>
+        <itunes:duration>01:00:22</itunes:duration>
+    </item>
+
+    <item>
+        <title>Episode 441 - The Threat of Civil War</title>
+        <itunes:title>The Threat of Civil War</itunes:title>
+        <itunes:author>Sam Harris</itunes:author>
+        <itunes:subtitle>The Threat of Civil War</itunes:subtitle>
+        <enclosure
+            url="https://assets.samharris.org/episodes/audios/1b91eb04-1326-4535-9e96-d56550f1b52c/Making_Sense_441_Stephen_Marche-subscriber.mp3?token=c8c12916-56c4-42cf-83ec-6ff38af21694"
+            length="0"
+            type="audio/mpeg"/>
+        <guid>https://assets.samharris.org/episodes/audios/1b91eb04-1326-4535-9e96-d56550f1b52c/Making_Sense_441_Stephen_Marche-subscriber.mp3?token=c8c12916-56c4-42cf-83ec-6ff38af21694</guid>
+        <pubDate>Fri, 31 Oct 2025 12:00:00 GMT</pubDate>
+        <itunes:duration>01:07:23</itunes:duration>
+    </item>
+
+    <item>
+        <title>Episode 442 - More From Sam: Public Speaking, Nuclear War, & Christian Nationalism</title>
+        <itunes:title>More From Sam: Public Speaking, Nuclear War, & Christian Nationalism</itunes:title>
+        <itunes:author>Sam Harris</itunes:author>
+        <itunes:subtitle>More From Sam: Public Speaking, Nuclear War, & Christian Nationalism</itunes:subtitle>
+        <enclosure
+            url="https://assets.samharris.org/episodes/audios/764ab09f-6eb8-4b19-b12a-26d5609c9c3d/Making_Sense_442_MFS_11-31-25-subscriber.mp3?token=c8c12916-56c4-42cf-83ec-6ff38af21694"
+            length="0"
+            type="audio/mpeg"/>
+        <guid>https://assets.samharris.org/episodes/audios/764ab09f-6eb8-4b19-b12a-26d5609c9c3d/Making_Sense_442_MFS_11-31-25-subscriber.mp3?token=c8c12916-56c4-42cf-83ec-6ff38af21694</guid>
+        <pubDate>Mon, 03 Nov 2025 12:00:00 GMT</pubDate>
+        <itunes:duration>00:43:00</itunes:duration>
+    </item>
+    
+    <item>
         <title>Episode 461 - Dictators Always Tell You What They'll Do</title>
         <itunes:title>Dictators Always Tell You What They'll Do</itunes:title>
         <itunes:author>Sam Harris</itunes:author>
@@ -56,20 +140,6 @@
         <guid>https://assets.samharris.org/episodes/audios/17f519a8-3294-4b3f-bdf1-160467804fd2/Making_Sense_459_MFS_2-12-26-subscriber.mp3?token=c8c12916-56c4-42cf-83ec-6ff38af21694</guid>
         <pubDate>Fri, 13 Feb 2026 12:00:00 GMT</pubDate>
         <itunes:duration>00:22:29</itunes:duration>
-    </item>
-    
-    <item>
-        <title>Episode 455: More From Sam: Guns, Propaganda, AI, and Power Unbound</title>
-        <itunes:title>More From Sam: Guns, Propaganda, AI, and Power UnboundA</itunes:title>
-        <itunes:author>Sam Harris</itunes:author>
-        <itunes:subtitle>More From Sam: Guns, Propaganda, AI, and Power UnboundA</itunes:subtitle>
-        <enclosure
-            url="https://assets.samharris.org/episodes/audios/d26a45e1-0bfb-4d87-a51d-90436d1361d6/Making_Sense_455_MFS_1-29-26-subscriber.mp3?token=bf7e49bf-3274-47b5-beb0-46df5267cb30"
-            length="0"
-            type="audio/mpeg"/>
-        <guid>https://assets.samharris.org/episodes/audios/d26a45e1-0bfb-4d87-a51d-90436d1361d6/Making_Sense_455_MFS_1-29-26-subscriber.mp3?token=bf7e49bf-3274-47b5-beb0-46df5267cb30</guid>
-        <pubDate>Wed, 11 Feb 2026 12:00:00 GMT</pubDate>
-        <itunes:duration>00:36:11</itunes:duration>
     </item>
     
     <item>
