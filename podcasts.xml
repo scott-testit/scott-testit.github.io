@@ -17,6 +17,48 @@
 
     <!-- Sam Harris Podcast episodes -->
     <item>
+        <title>Episode 461 - Dictators Always Tell You What They'll Do</title>
+        <itunes:title>Dictators Always Tell You What They'll Do</itunes:title>
+        <itunes:author>Sam Harris</itunes:author>
+        <itunes:subtitle>Dictators Always Tell You What They'll Do</itunes:subtitle>
+        <enclosure
+            url="https://assets.samharris.org/episodes/audios/45399843-0be0-48fc-b62d-99b735b5d341/Making_Sense_461_Gary_Kasparov-subscriber.mp3"
+            length="0"
+            type="audio/mpeg"/>
+        <guid>https://assets.samharris.org/episodes/audios/45399843-0be0-48fc-b62d-99b735b5d341/Making_Sense_461_Gary_Kasparov-subscriber.mp3</guid>
+        <pubDate>Wed, 25 Feb 2026 12:00:00 GMT</pubDate>
+        <itunes:duration>01:38:02</itunes:duration>
+    </item>
+
+    <item>
+        <title>Episode 460 - When the Center Cannot Hold</title>
+        <itunes:title>When the Center Cannot Hold</itunes:title>
+        <itunes:author>Sam Harris</itunes:author>
+        <itunes:subtitle>When the Center Cannot Hold</itunes:subtitle>
+        <enclosure
+            url="https://assets.samharris.org/episodes/audios/bd9c3f2e-3ff7-45a8-bc5d-81060baa937c/Making_Sense_460_Jonah_Goldberg-subscriber.mp3?token=c8c12916-56c4-42cf-83ec-6ff38af21694"
+            length="0"
+            type="audio/mpeg"/>
+        <guid>https://assets.samharris.org/episodes/audios/bd9c3f2e-3ff7-45a8-bc5d-81060baa937c/Making_Sense_460_Jonah_Goldberg-subscriber.mp3?token=c8c12916-56c4-42cf-83ec-6ff38af21694</guid>
+        <pubDate>Fri, 20 Feb 2026 12:00:00 GMT</pubDate>
+        <itunes:duration>01:13:04</itunes:duration>
+    </item>
+
+    <item>
+        <title>Episode 459 - More From Sam: Corruption, Immigration, The End of White-Collar Work, and More</title>
+        <itunes:title>More From Sam: Corruption, Immigration, The End of White-Collar Work, and More</itunes:title>
+        <itunes:author>Sam Harris</itunes:author>
+        <itunes:subtitle>More From Sam: Corruption, Immigration, The End of White-Collar Work, and More</itunes:subtitle>
+        <enclosure
+            url="https://assets.samharris.org/episodes/audios/17f519a8-3294-4b3f-bdf1-160467804fd2/Making_Sense_459_MFS_2-12-26-subscriber.mp3?token=c8c12916-56c4-42cf-83ec-6ff38af21694"
+            length="0"
+            type="audio/mpeg"/>
+        <guid>https://assets.samharris.org/episodes/audios/17f519a8-3294-4b3f-bdf1-160467804fd2/Making_Sense_459_MFS_2-12-26-subscriber.mp3?token=c8c12916-56c4-42cf-83ec-6ff38af21694</guid>
+        <pubDate>Fri, 13 Feb 2026 12:00:00 GMT</pubDate>
+        <itunes:duration>00:22:29</itunes:duration>
+    </item>
+    
+    <item>
         <title>Episode 455: More From Sam: Guns, Propaganda, AI, and Power Unbound</title>
         <itunes:title>More From Sam: Guns, Propaganda, AI, and Power UnboundA</itunes:title>
         <itunes:author>Sam Harris</itunes:author>
